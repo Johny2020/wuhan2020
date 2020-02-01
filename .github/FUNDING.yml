@@ -1,5 +1,4 @@
-# These are supported funding model platforms
-github: # Replace with up to 4 GitHub Sponsors-enabled Johny2020 e.g., [user1, user2]
-patreon: # Replace with a single Patreon Johny2020
-open_collective: # Replace with a single Open Collective Johny2020
-ko_fi: # Replace with a single Ko-fi Johny2020
+github: [octocat, surftocat]
+patreon: octocat
+tidelift: npm/octo-package
+custom: ["https://www.paypal.me/octocat", octocat.com]
